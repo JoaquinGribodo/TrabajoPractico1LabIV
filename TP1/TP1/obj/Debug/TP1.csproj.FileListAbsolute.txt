@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.Form1.resources
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\Usuario\Desktop\UTN\Segundo Año - Segundo Cuatrimestre\Laboratorio IV\TP1\TP1\obj\Debug\TP1.Alta.resources
