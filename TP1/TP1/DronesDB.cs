@@ -10,7 +10,7 @@ namespace TP1
     public class DronesDB
     {
         private static DronesDB _instance;
-        private string connectionString = "Server=DESKTOP-TMBPE4T;Database=Repartidores;Trusted_Connection=True;";
+        private string connectionString = "Server=;Database=Repartidores;Trusted_Connection=True;";
         
         private DronesDB()
         {
